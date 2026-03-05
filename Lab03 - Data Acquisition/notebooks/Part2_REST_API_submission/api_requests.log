@@ -1,0 +1,22 @@
+2026-03-06 00:03:46,345 - __main__ - INFO - Attempt 1/3: GET https://api.github.com/repos/python/cpython
+2026-03-06 00:03:46,889 - __main__ - INFO - ✓ Success: https://api.github.com/repos/python/cpython
+2026-03-06 00:03:59,087 - GitHubAPI - INFO - GET /repos/pandas-dev/pandas - Status: 200
+2026-03-06 00:03:59,977 - GitHubAPI - INFO - GET /search/repositories - Status: 200
+2026-03-06 00:09:14,190 - GitHubAPI - INFO - GET /repos/pandas-dev/pandas - Status: 200
+2026-03-06 00:09:15,258 - GitHubAPI - INFO - GET /search/repositories - Status: 200
+2026-03-06 00:17:18,563 - GitHubAPI - INFO - GET /repos/tensorflow/tensorflow - Status: 200
+2026-03-06 00:17:18,974 - GitHubAPI - INFO - GET /repos/pytorch/pytorch - Status: 200
+2026-03-06 00:17:19,290 - GitHubAPI - INFO - GET /repos/scikit-learn/scikit-learn - Status: 200
+2026-03-06 00:24:04,750 - matplotlib.font_manager - INFO - Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-03-06 00:24:04,942 - matplotlib.font_manager - INFO - generated new fontManager
+2026-03-06 00:47:49,344 - __main__ - INFO - Fetching page 1 for user pandas-dev...
+2026-03-06 00:47:52,349 - __main__ - INFO - Fetching page 2 for user pandas-dev...
+2026-03-06 00:47:55,292 - __main__ - INFO - Reached the end, Total repos: 15
+2026-03-06 00:47:55,310 - __main__ - INFO - Summary report saved as 'task2_analysis.txt'
+2026-03-06 01:17:54,946 - GitHubAnalyzer - INFO - Successfully fetched /search/repositories
+2026-03-06 01:17:55,474 - GitHubAnalyzer - INFO - Successfully fetched /repos/tensorflow/tensorflow
+2026-03-06 01:17:55,983 - GitHubAnalyzer - INFO - Successfully fetched /repos/pytorch/pytorch
+2026-03-06 01:17:56,363 - GitHubAnalyzer - INFO - Successfully fetched /repos/scikit-learn/scikit-learn
+2026-03-06 01:17:56,804 - GitHubAnalyzer - INFO - Successfully fetched /repos/numpy/numpy
+2026-03-06 01:17:57,260 - GitHubAnalyzer - INFO - Successfully fetched /repos/pandas-dev/pandas
+2026-03-06 01:17:57,283 - GitHubAnalyzer - INFO - Exported data to task3_results.xlsx

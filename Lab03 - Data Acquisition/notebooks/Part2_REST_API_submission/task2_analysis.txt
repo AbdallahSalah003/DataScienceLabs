@@ -1,0 +1,8 @@
+GitHub Repository Analysis: pandas-dev
+========================================
+Most Used Language:      Python
+Average Stars per Repo:  3232.33
+Total Forks:             19936
+Most Recently Updated:   pandas
+Oldest Repository:       pandas
+========================================
