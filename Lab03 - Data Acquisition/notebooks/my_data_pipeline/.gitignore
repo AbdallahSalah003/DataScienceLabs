@@ -1,0 +1,5 @@
+.env            # API keys - never commit
+*.db            # Database files
+*.log           # Log files
+exports/        # Generated CSVs
+__pycache__/
